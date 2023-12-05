@@ -6,6 +6,8 @@
 ### ***Мои контакты:***
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Irina_Batychko)
 
+[Резюме](https://drive.google.com/file/d/1RgUSorika-pzj0tdPBGnLaRo8EKcD88D/view?usp=sharing)
+
 ### ***Инструменты:***
     Mind Map (Xmind)
     Postman (GET, POST, PUT, DELETE запросы)
@@ -53,6 +55,7 @@
     * Всегда нацелена на достижение высоких стандартов качества;
 
     * Убеждена, что нужно работать, чтобы добиться результатов, а не стоять на месте.
+
 
 
 
