@@ -6,7 +6,7 @@
 ### ***Мои контакты:***
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Irina_Batychko)
 
-[Резюме](https://drive.google.com/file/d/1RgUSorika-pzj0tdPBGnLaRo8EKcD88D/view?usp=sharing)
+[Резюме](https://drive.google.com/file/d/122WjUgCnuswCwvVqICHqvJ6eUemA0i6t/view?usp=sharing)
 
 ### ***Инструменты:***
     Mind Map (Xmind)
